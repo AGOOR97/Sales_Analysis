@@ -1,0 +1,6 @@
+Order ID: A unique number that is given for every purchase order (can be repeated if the order composed of several products)
+Product: The name of the product that is purchased 	
+Quantity Ordered: The number of items purchased of this specific item
+Price Each: The unit price of this product
+Order Date: The date of purchase order
+Purchase Address: The place where the purchase is done 
